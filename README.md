@@ -1,8 +1,8 @@
 # kernel-filter
 ## 1. Abstract 
 
-These are the image data and a program that performs kernel filtering used in the following paper.
-https://doi.org/10.1038/s41586-021-04254-z
+These are the image data and a program that performs kernel filtering used in the following paper.  
+https://doi.org/xxxx/xxxxxx
 
 ## 2. Image data
 
