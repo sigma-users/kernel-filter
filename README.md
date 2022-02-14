@@ -28,11 +28,11 @@ N2_DF_860_860.bin
 N2_Dx_860_860.bin  
 N2_Dy_860_860.bin
 
-### 3. Processing content
+## 3. Processing content
 
 In this program, the ADF image, XY direction deflection map, and B-field-filtered XY direction deflection map are calculated and saved as a bitmap image from the binary files. The binary files must be placed in the same directory as the executable file.
 
-### 4. Prerequisites
+## 4. Prerequisites
 
 The following development environment is required to build the program.
 
