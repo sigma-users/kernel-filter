@@ -2,7 +2,7 @@
 ## 1. Abstract 
 
 These are the image data and a program that performs kernel filtering used in the following paper.  
-https://doi.org/xxxx/xxxxxx
+Kohno, Y., Seki, T., Findlay, S.D. et al. Real-space visualization of intrinsic magnetic fields of an antiferromagnet. Nature 602, 234–239 (2022). https://doi.org/10.1038/s41586-021-04254-z
 
 ## 2. Image data
 
